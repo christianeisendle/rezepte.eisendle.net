@@ -14,7 +14,7 @@ draft: false
 - 190g Wasser
 
 ## Zubereitung
-- Alle Zuten vermengen
+1. Alle Zuten vermengen
 - Teig gut kneten und ziehen, bis er nicht mehr an den Händen klebt
 - 15min rasten lassen
 - Teigstücke zu ca. 85g auswiegen und schleifen und mit Staubmehl gut bemehlen
