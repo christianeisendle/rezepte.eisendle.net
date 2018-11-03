@@ -1,0 +1,36 @@
+DefaultContentLanguage: de
+pluralizelisttitles: false
+PygmentsCodeFences: true
+PygmentsUseClasses: true
+languageCode: "de"
+DisqusShortname: "ceisendle"
+languages:
+  de:
+    title: de 
+    weight: 1
+    LanguageName: Deutsch
+    title: Christian's Rezeptesammlung
+    menu:
+      main:
+        - name: Brot und Gebäck
+          title: Brot und Gebäck
+          identifier: Brot und Gebäck
+          weight: 10
+          url: /post/brot/
+        - name: Süßes
+          title: Süßes
+          identifier: Süßes
+          weight: 100
+          url: /post/suesses/
+
+author:
+  name: "Christian"
+params:
+  sidebar: "left"
+  github: "https://github.com/christianeisendle"
+  twitter: "https://twitter.com/ceisendle"
+  home: "Startseite"
+  tagline: "Rezeptesammlung"
+  theme: "theme-base-0b"
+  hideReadingTime: true
+  truncate: false
