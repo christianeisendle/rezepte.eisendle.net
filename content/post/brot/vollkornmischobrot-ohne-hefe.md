@@ -1,27 +1,40 @@
 ---
-title: "Vollkornmischbrot mit Hefe"
+title: "Vollkornmischbrot ohne Hefe (TA175)"
 date: 2018-11-03T16:46:16+01:00
-draft: false
+tags: Sauerteig, Mischbrot
 ---
-# Vollkornmischbrot ohne Hefe
-## Zutaten
-- 300g Weizenvollkornmehl
-- 295g Roggenvollkornmehl
-- 400g Wasser (ca. 30 Grad)
-- 5g Sauerteig
-- 10g Backmalz
-- 13g Salz
-- 10g Brotgewürze
-- 20g Zuckerrübensirupe oder Honig
-## Zubereitung
-- Zutaten in der Reihenfolge Wasser, Zuckerrübensirup (verrühren!), Weizenvollkornmehl, Backmalz, Brotgewürze, Salz, Roggenvollkornmehl und Sauerteig vermengen
-- Zu einer homogenen Teigmasse verrühren
-- Luftdicht abdecken und bei 23-25 Grad gehen lassen
-- Nach 2-3h Teig langziehen und falten
-- Nach weiteren 6-8h nochmals langziehen und falten
-- Nach insgesamt 15-18h Teigling zu einer runden Kugel formen und in ein Gärkörbchen geben (Teigschluss nach unten)
-- 1h gehen lassen
-- Backrohr bei 250 Grad vorheizen
-- Teigling aufs Blech/Brotstein stürzen
-- Nach 5min auf 195 Grad (Heißlut reduzieren)
-- 50 min fertigbacken
+## Zutaten Sauerteig
+- 150g Roggenvollkornmehl
+- 75g Roggenmehl
+- 225g Wasser
+- 23g Anstellgut
+- 3g Salz
+
+## Zutaten Quellstück
+- 150g Roggenschrot
+- 150g Wasser
+
+## Zutaten Brot
+- 300g Roggenmehl
+- 150g Weizenmehl
+- 75g Weizenvollkornmehl
+- 300g Wasser (ca. 40-50 Grad)
+- 10g Salz
+
+## Zubereitung Sauerteig
+1. Wasser mit Mehl, Salz und Anstellgut gut vermengen
+2. 12-20h bei Raumtemperatur gehen lassen
+
+## Zubereitung Quellstück
+1. Wasser mit Schrot vermengen
+2. 8h im Kühlschrank quellen lassen
+
+## Zubereitung Brot
+1. Alle Zutaten vermengen
+2. Zu einer homogenen Teigmasse verrühren
+3. Luftdicht abdecken und bei 30 Grad gehen lassen
+4. Nach 1h Teig rundwirken und in Gärkorb geben
+5. Im Gärkorb nochmals 1h gehen lassen
+6. Backrohr mit Backstein bei 250 Grad vorheizen
+7. Teigling aufs Blech/Brotstein stürzen und auf 215 Grad reduzieren
+8. 55 min fertigbacken
