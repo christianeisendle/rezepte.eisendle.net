@@ -4,7 +4,6 @@ date: 2018-11-03T16:46:16+01:00
 draft: false
 author: Christian
 ---
-# Mischbrot mit Hefe
 ## Zutaten
 - 300g Weizenmehl glatt (Typ 700)
 - 295g Roggenmehl (Typ 960)
@@ -15,6 +14,7 @@ author: Christian
 - 13g Salz
 - 10g Brotgewürze
 - 20g Zuckerrübensirup oder Honig
+
 ## Zubereitung
 - Hefe und Zuckerrübensirup in Wasser auflösen
 - Weizenmehl einstreuen
