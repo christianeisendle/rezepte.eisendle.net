@@ -4,7 +4,7 @@ date: 2018-11-03T16:59:12+01:00
 tags: Süßspeise, Germ, Reindling
 draft: false
 ---
-
+<figure><img src="/images/reindling.jpg" width="640" /></figure>
 ## Zutaten
 ### Teig
 - 500g Weizenmehl glatt
