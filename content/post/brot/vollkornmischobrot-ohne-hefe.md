@@ -14,6 +14,11 @@ tags: Sauerteig, Mischbrot
 - 150g Roggenschrot
 - 150g Wasser
 
+### Alternative
+- 100g Roggenschrot
+- 50g Chiasamen
+- 175g Wasser
+
 ## Zutaten Brot
 - 300g Roggenmehl
 - 150g Weizenmehl
@@ -34,7 +39,10 @@ tags: Sauerteig, Mischbrot
 2. Zu einer homogenen Teigmasse verrühren
 3. Luftdicht abdecken und bei 30 Grad gehen lassen
 4. Nach 1h Teig rundwirken und in Gärkorb geben
-5. Im Gärkorb nochmals 1h gehen lassen
+5. Im Gärkorb nochmals 3h gehen lassen
 6. Backrohr mit Backstein bei 250 Grad vorheizen
 7. Teigling aufs Blech/Brotstein stürzen und auf 215 Grad reduzieren
 8. 55 min fertigbacken
+
+### Alternative
+5g Hefe hinzufügen um die Stückgarzeit zu reduzieren
