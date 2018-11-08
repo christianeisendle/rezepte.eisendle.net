@@ -30,5 +30,5 @@ date: 2018-11-03T23:48:30+01:00
 2. Backrohr auf 230 Grad (Ober/Unterhitze) vorheizen
 3. Gut mit Wasser besprühen
 4. Sofort auf 170 Grad reduzieren
-5. Nach 5min Rohr auf und Dampf entweichen lassen
+5. Nach 5min Backofentür einen Spalt offenlassen
 6. Weitere 15min fertig backen
