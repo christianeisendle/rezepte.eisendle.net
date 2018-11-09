@@ -3,26 +3,27 @@ title: "Salzstangerln und Semmeln"
 date: 2018-11-03T23:48:30+01:00
 ---
 ## Zutaten
-- 150g Weizenmehl
-- 3g Salz
-- 1g Zucker
-- 90ml Milch
-- 1 TL Trockengerm
-- 4g Backmalz
-- 5g Butter
+- 450g Weizenmehl
+- 10g Salz
+- 4g Zucker
+- 200g Milch
+- 70g Wasser
+- 1 Pkg Trockengerm
+- 12g Backmalz
+- 15g Butter
 
 ## Zubereitung
 1. Alle Zuten vermengen
 2. Teig gut kneten und ziehen, bis er nicht mehr an den Händen klebt
 3. 15min rasten lassen
-4. Teigstücke zu ca. 85g (Semmeln) bzw. 120g (Salzstangerl) auswiegen und schleifen und mit Staubmehl gut bemehlen
+4. 6 Teigstücke zu ca. 85g (Semmeln) und 2 Teigstücke zu ca. 120g (Salzstangerl) auswiegen, rund schleifen und mit Staubmehl gut bemehlen
 5. 15min rasten lassen
 
 ### Semmeln
 1. Teigstücke flach drücken und 5mal einschlagen
 
 ### Salzstangerl
-1. Teigstücke hauchdünn zu einem Rechteck ausrollen
+1. Teigstücke hauchdünn zu einem Dreieck ausrollen
 2. Zu Stangerlform zusammenrollen
 
 ### Semmeln/Salzstangerl
