@@ -9,7 +9,7 @@ languages:
     title: de 
     weight: 1
     LanguageName: Deutsch
-    title: Christian's Rezeptesammlung
+    title: Das Brotokoll - Christian's Rezeptesammlung
     menu:
       main:
         - name: Brot und Gebäck
@@ -24,13 +24,13 @@ languages:
           url: /post/suesses/
 
 author:
-  name: "Christian"
+  name: "Christian's Brotokoll"
 params:
   sidebar: "left"
   github: "https://github.com/christianeisendle"
   twitter: "https://twitter.com/ceisendle"
   home: "Startseite"
-  tagline: "Rezeptesammlung"
+  tagline: ""
   theme: "theme-base-0b"
   hideReadingTime: true
   truncate: false
