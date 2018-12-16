@@ -7,7 +7,11 @@ publish:
 	@rsync -rave ssh public/ --delete --stats server.eisendle.net:/var/www/htdocs/rezepte.eisendle.net
 
 generate:
-	@hugo
+	@docker run --rm -it -v ${PWD}:/hugo hugo hugo
+
+docker-image:
+	@docker build . --build-arg HUGO_UID=`id -u` -t hugo
+
 
 .DEFAULT_GOAL := all
 
