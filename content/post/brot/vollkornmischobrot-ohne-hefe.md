@@ -8,23 +8,21 @@ tags: Sauerteig, Mischbrot
 - 75g Roggenmehl
 - 225g Wasser
 - 23g Anstellgut
-- 3g Salz
 
 ## Zutaten Quellstück
 - 150g Roggenschrot
 - 150g Wasser
 
 ### Alternative
-- 100g Roggenschrot
-- 50g Chiasamen
-- 175g Wasser
+- 100g Chiasamen
+- 150g Wasser
 
 ## Zutaten Brot
 - 300g Roggenmehl
-- 150g Weizenmehl
-- 75g Weizenvollkornmehl
-- 300g Wasser (ca. 40-50 Grad)
-- 10g Salz
+- 220g Weizenmehl
+- 250g Wasser (ca. 40-50 Grad)
+- 20g Honig
+- 18g Salz
 
 ## Zubereitung Sauerteig
 1. Wasser mit Mehl, Salz und Anstellgut gut vermengen
