@@ -4,7 +4,7 @@ date: 2018-11-03T17:05:26+01:00
 draft: false
 ---
 ## Zutaten
-- 660g Weizenmehl glatt
+- 750g Weizenmehl glatt
 - 10g Salz
 - 10g Backmalz
 - 80g Zucker
