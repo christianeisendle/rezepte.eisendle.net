@@ -4,16 +4,16 @@ date: 2018-11-03T17:05:26+01:00
 draft: false
 ---
 ## Zutaten
-- 750g Weizenmehl glatt
-- 10g Salz
+- 670g Weizenmehl glatt
+- 7g Salz
 - 10g Backmalz
-- 80g Zucker
+- 60g Zucker
 - 1Pkg Vanillezucker
-- 80g Butter
+- 60g Butter
 - 2 Eier
-- 13g Rum
+- 10g Rum
 - 1 Würfel frische Hefe
-- 350g Milch
+- 270g Milch
 
 ## Zubereitung
 - Alle Zuten vermengen - vom 2. Ei den Dotter trennen und in eine Schüssel geben
