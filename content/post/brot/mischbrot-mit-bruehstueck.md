@@ -16,7 +16,7 @@ tags: Sauerteig, Mischbrot, Roggenschrot, Brühstück
 ## Zutaten Brot
 - 250g Roggenmehl
 - 250g Weizenmehl
-- 150g Wasser (ca. 40-50 Grad)
+- 190g Wasser (ca. 40-50 Grad)
 - 15g Salz
 
 ## Zubereitung Sauerteig
